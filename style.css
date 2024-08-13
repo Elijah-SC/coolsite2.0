@@ -65,12 +65,41 @@ a {
 
 }
 
-.w-50 {
-  width: 50;
-  padding: 1em;
-  margin-top: 2.5em;
-  margin-bottom: 2.5em;
-  margin-left: 2.5em;
-  margin-right: 2.5em;
+.w-35 {
+  width: 35%;
+}
 
+.w-65 {
+  width: 65%;
+}
+
+.margin-main {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  padding: 2em;
+
+}
+
+.padding-left {
+  padding-left: 20em;
+}
+
+.padding-right {
+  padding-right: 15em;
+}
+
+.world-img {
+  /* padding: 10px; */
+  width: 100%;
+
+
+}
+
+footer {
+  color: var(--dark);
+  text-align: center;
+  background-color: #c2c2c2;
+  margin: unset;
+  flex-grow: 1;
+  padding: 20px;
 }
