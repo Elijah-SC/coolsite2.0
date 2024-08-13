@@ -3,6 +3,8 @@
   --blue: #1C4BC4;
   --white: #F4F6F8;
   --yellow: #FAFD61;
+  --grey: #c2c2c2;
+
 }
 
 header {
@@ -103,4 +105,36 @@ footer {
   margin: unset;
   flex-grow: 1;
   padding: 20px;
+}
+
+
+
+.p-tab {
+  background-color: var(--white);
+}
+
+.penguin {
+  width: 500px;
+
+}
+
+.p-header {
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sub-header {
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.p-box {
+  padding: 3em;
+}
+
+.bolder {
+  font-weight: bolder;
+  text-decoration-line: underline;
 }
