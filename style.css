@@ -96,7 +96,7 @@ a {
 .world-img {
   /* padding: 10px; */
   width: 100%;
-  cursor: progress;
+  cursor: crosshair;
 }
 
 footer {
@@ -139,4 +139,9 @@ footer {
 .bolder {
   font-weight: bolder;
   text-decoration-line: underline;
+}
+
+.tiny {
+  font-size: 10px;
+  text-align: center;
 }
